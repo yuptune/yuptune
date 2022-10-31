@@ -1,5 +1,4 @@
-### hi im mangloid (or mang from crapblox, im hated there :troll:)
-you people make me sick. <b>instead heres the stuff i do</b>
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat-square#956f2e0)
-![HTML](https://img.shields.io/badge/HTML-777BB4?logo=html&logoColor=fff&style=flat-square#956f2e0)
+<img src="https://user-images.githubusercontent.com/106561594/199101689-bc017e19-5a6b-4057-a232-4be456d0f486.png" align="right"/>
+<hr>
+<h2>hi im mangloid</h2>
+i troll the orc
