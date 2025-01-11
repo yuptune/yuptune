@@ -1,3 +1,1 @@
-<h1>what are you doing here</h1>
-<br>
-WHAT!
+Welcome to my github profile I am not making a fancy readme
